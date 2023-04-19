@@ -1,0 +1,30 @@
+{
+  "equipmentNumber": 44845404,
+  "message": "callInUrgentSN",
+  "display_mark": "CBM_VIP",
+  "param": {
+    "additionalFaults": [],
+    "konectEntryId": "WSG20230417004",
+    "operationStatus": null,
+    "address": "招商.雍华府32号楼农贸市场, 610000",
+    "snCode": "SN000361",
+    "carLoad": null,
+    "callInUrgentSNStatus": "New",
+    "faultTime": "",
+    "speed": null,
+    "actionPerformed": "MBM: SN Created and dispatched",
+    "equipmentMovingStatus": null,
+    "equipmentMode": null,
+    "faultCode": "",
+    "serviceMode": null,
+    "doorStatus": null,
+    "callInUrgentSNName": "轿门按钮黏滞",
+    "faultDescription": "",
+    "callInUrgentSNTime": "2023-04-17T03:13:05.399",
+    "operationDirection": null,
+    "floor": 1,
+    "callInUrgentSN": "UrgentSN",
+    "doorZone": null
+  },
+  "t": "service-need"
+}
