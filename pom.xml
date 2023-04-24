@@ -8,6 +8,13 @@
     <artifactId>freetestPro</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+    <!--这两个属性非常重要,妈的被坑了这么久，我另一台电脑上传源代码，这台电脑git下来，maven编译时按照自己的默认版本进行编译
+    ，本地maven3.6.3，默认1.5，这两个属性定义了会让其在本地按照jdk1.8进行编译-->
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
     <modules>
         <module>pro01</module>
         <module>broadcastServer</module>
