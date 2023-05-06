@@ -20,6 +20,8 @@
         <module>broadcastServer</module>
         <module>timeutil</module>
         <module>pro02-okhttptest</module>
+        <module>pro03-java8test</module>
+        <module>pro04-mybatisplus</module>
     </modules>
 
 
